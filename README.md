@@ -24,8 +24,8 @@
 <img src="Screenshots/Screenshot_1837x1034_1.png" width="400"/>
 
 ### 🪐 Gameplay Preview
-<img src="Screenshots/Screenshot_1837x1034_2.png" width="400"/><img src="Screenshots/Screenshot_1837x1034_3.png" width="400"/>
-<img src="Screenshots/Screenshot_1837x1034_4.png" width="400"/><img src="Screenshots/Screenshot_1837x1034_5.png" width="400"/>
+<img src="Screenshots/Screenshot_1837x1034_2.png" width="400"/>  <img src="Screenshots/Screenshot_1837x1034_3.png" width="400"/>
+<img src="Screenshots/Screenshot_1837x1034_4.png" width="400"/>  <img src="Screenshots/Screenshot_1837x1034_5.png" width="400"/>
 
 ---
 
