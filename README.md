@@ -20,7 +20,7 @@
 
 ## 📷 Screenshots
 
-### 🪐 Gameplay Preview
+### 🪐 MainMenu Preview
 <img src="Screenshots/Screenshot_1837x1034_1.png" width="400"/>
 
 ### 🪐 Gameplay Preview
